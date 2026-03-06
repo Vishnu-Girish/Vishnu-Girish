@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vishnu-Girish/Vishnu-Girish/main/header.png" alt="Vishnu Girish" width="600">
+ <img src="https://i.imgur.com/ik0k7kx.png" border="0">
 </p>
 
 ## 🌐 Socials:
