@@ -2,7 +2,7 @@
  <img src="https://i.imgur.com/ik0k7kx.png" border="0">
 </p>
 
-## 🌐 SOCIALS:
+## 🌐 SOCIAL:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishnu26girish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishnu-girish-ofl/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishnugirishofl@gmail.com) 
 
 # 💻 TECH STACK:
